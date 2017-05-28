@@ -1,0 +1,1 @@
+Hello Universe. The content of this file should be copied by the program into a newly created file - b.
